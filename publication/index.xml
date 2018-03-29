@@ -12,5 +12,14 @@
 	<atom:link href="https://hockeybro12.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Memorization in Binarized Neural Networks</title>
+      <link>https://hockeybro12.github.io/publication/memorization-in-binarized-neural-networks/</link>
+      <pubDate>Wed, 28 Mar 2018 20:35:44 -0400</pubDate>
+      
+      <guid>https://hockeybro12.github.io/publication/memorization-in-binarized-neural-networks/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
