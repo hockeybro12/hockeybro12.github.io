@@ -1,165 +1,134 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/publication/improving-with-advice/</loc>
-      <lastmod>2019-06-06T20:35:44-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/project/deepmemm/</loc>
-      <lastmod>2018-03-28T23:14:46-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/home/publications/</loc>
+    <lastmod>2016-04-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/experience/unifyid/</loc>
-      <lastmod>2018-03-28T23:14:46-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/home/experience/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/experience/unifyid-copy/</loc>
-      <lastmod>2018-03-27T23:14:46-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/home/projects/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/publication/memorization-in-binarized-neural-networks/</loc>
-      <lastmod>2017-08-10T20:35:44-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/home/tags/</loc>
+    <lastmod>2017-09-20T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/home/contact/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/publication_types/1/</loc>
+    <lastmod>2019-06-06T20:35:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/publication/improving-with-advice/</loc>
+    <lastmod>2019-06-06T20:35:44-04:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/publication_types/1/</loc>
-      <lastmod>2019-06-06T20:35:44-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/</loc>
+    <lastmod>2019-06-06T20:35:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/publication_types/</loc>
+    <lastmod>2019-06-06T20:35:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/experience/</loc>
-      <lastmod>2018-03-28T23:14:46-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/tags/</loc>
+    <lastmod>2019-06-06T20:35:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/tags/natural-language-communication-with-robots/</loc>
-      <lastmod>2019-06-06T20:35:44-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/tags/natural-language-communication-with-robots/</loc>
+    <lastmod>2019-06-06T20:35:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/tags/neural-networks/</loc>
-      <lastmod>2017-08-10T20:35:44-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/project/deepmemm/</loc>
+    <lastmod>2018-03-28T23:14:46-04:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/experience/</loc>
+    <lastmod>2018-03-28T23:14:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/project/</loc>
-      <lastmod>2018-03-28T23:14:46-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/project/</loc>
+    <lastmod>2018-03-28T23:14:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/publication_types/</loc>
-      <lastmod>2019-06-06T20:35:44-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/experience/unifyid/</loc>
+    <lastmod>2018-03-28T23:14:46-04:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://hockeybro12.github.io/tags/</loc>
-      <lastmod>2019-06-06T20:35:44-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://hockeybro12.github.io/experience/unifyid-copy/</loc>
+    <lastmod>2018-03-27T23:14:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hockeybro12.github.io/home/</loc>
+    <lastmod>2017-09-20T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hockeybro12.github.io/publication/memorization-in-binarized-neural-networks/</loc>
+    <lastmod>2017-08-10T20:35:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hockeybro12.github.io/tags/neural-networks/</loc>
+    <lastmod>2017-08-10T20:35:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hockeybro12.github.io/post/</loc>
+    <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hockeybro12.github.io/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hockeybro12.github.io/talk/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hockeybro12.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>
