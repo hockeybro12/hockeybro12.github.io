@@ -29,7 +29,7 @@ Work experience
 
 * Summer 2020
   * Amazon Applied Science Intern
-  * Focus: Interactive Product-Image Retrieval
+  * Focus: Named Entity Recognition
   * Supervisor: [Michael Kayser](https://www.amazon.science/author/michael-kayser)
   
 
