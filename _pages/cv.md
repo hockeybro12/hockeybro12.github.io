@@ -70,4 +70,4 @@ Teaching
   
 Service and leadership
 ======
-* Reviewing: ACL, ARR, NAACL, EMNLP, CoLING
+* Reviewing: ACL, ARR, NAACL, EMNLP, CoLING, AAAI

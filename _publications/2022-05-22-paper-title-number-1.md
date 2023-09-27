@@ -1,14 +1,11 @@
 ---
-title: "Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks"
+title: "An Interactive Framework for Profiling News Media Sources"
 collection: publications
-permalink: /publication/tackling_fake_news_improving_representations
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-05-22
-venue: 'ACL 2022'
-paperurl: 'https://aclanthology.org/2022.acl-long.97/'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/interactive_news_media_sources
+date: 2023-09-14
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2309.07384/'
 ---
-We tackle fake news detection on social media by proposing a framework that continuously improves the learned social media representation by augmenting the graph to uncover hidden relationships. We show improvements on two datasets.
+We develop a framework that combines the strengths of Large Language Models (LLMs), graphs, and humans to better profile news media sources (detect their factuality and political bias). Our framework performs better than using each approach independently: We outperform LLMs and graph models, and we need a lot fewer human interactions (less than 5) than having humans profile all news content. 
 
-[Download paper here](https://aclanthology.org/2022.acl-long.97/)
-[Code here](https://github.com/hockeybro12/FakeNews_Inference_Operators)
+[Download paper here](https://arxiv.org/abs/2309.07384)
