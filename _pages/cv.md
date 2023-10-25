@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](https://hockeybro12.github.io/files/Resume.pdf)
+
 Education
 ======
-* Ph.D in Computer Science, Purdue University, 2023 (expected)
+* Ph.D in Computer Science, Purdue University, May 2024 (expected)
 * M.S. in Computer Science, Purdue University, 2020
-* B.S. in Computer Science, Purdue University, 2018 (
+* B.S. in Computer Science, Purdue University, 2018
 
 Work experience
 ======
@@ -31,6 +33,11 @@ Work experience
   * Amazon Applied Science Intern
   * Focus: Named Entity Recognition
   * Supervisor: [Michael Kayser](https://www.amazon.science/author/michael-kayser)
+
+* Summer 2019
+  * Fujitsu Laboratories of America Machine Learning Research Intern
+  * Focus: Dialogue + Joke Selection
+  * Supervisor: Ramya Malur Srinivasan
   
 
 
@@ -54,6 +61,7 @@ Teaching
   * Statistical Machine Learning
 * Undergraduate
   * Data Mining and Machine Learning
+  * Systems Programming
 
 
 <!-- Talks
@@ -70,4 +78,4 @@ Teaching
   
 Service and leadership
 ======
-* Reviewing: ACL, ARR, NAACL, EMNLP, CoLING, AAAI
+* Reviewing: ACL ARR, ACL, AACL, AAAI, NAACL, EMNLP, COLING, EACL

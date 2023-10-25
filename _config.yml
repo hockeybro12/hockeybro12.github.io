@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nikhil Mehta"
 title_separator          : "-"
 name                     : &name "Nikhil Mehta"
-description              : &description "5th Year PhD student at Purdue University"
+description              : &description "6th Year PhD student at Purdue University"
 url                      : https://hockeybro12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hockeybro12/hockeybro12.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nikhil Mehta"
   avatar           : "profile_picture.jpg"
-  bio              : "5th Year PhD student at Purdue University"
+  bio              : "6th Year PhD student at Purdue University"
   location         : "West Lafayette, Indiana"
   employer         :
   pubmed           : ""
