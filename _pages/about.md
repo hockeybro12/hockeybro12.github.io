@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a 6th Year PhD student at Purdue University working with [Professor Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/) in Natural Language Processing, originally from California. I am currently looking for full time positions, starting in Summer 2024. I have completed internships at Microsoft Research, Amazon Science, Fujitsu, and several startups (Loom.ai and UnifyID). I have also published 5 first author papers (along with several workshop papers), and have been accepted at top NLP conferences like ACL, NAACL, and AACL.
+I am a Senior Research Scientist at Meta SuperIntelligence Labs (MSL), working in the core post-training team for Llama multimodal models, originally from California. My team was responsible for post-training and releasing the Llama 4 and Llama 3.2 multimodal (text + image) Model. I was responsible for improving performance in accuracy, reasoning, and chat, as well as developing post-training infra (SFT, DPO, RL, graders, Reward Models, evaluation). 
+
+Previously, I completed my PhD at Purdue University working with [Professor Dan Goldwasser](https://www.cs.purdue.edu/homes/dgoldwas/) in Natural Language Processing and Multimodal understanding, originally from California. My PhD Dissertation was focused on Interactive Learning and Social Media Understanding. I published 5 first author papers (along with several workshop papers), and my work has been accepted at top NLP conferences like ACL, NAACL, EMNLP, and AACL.
+
+I have interned at Microsoft Research, Amazon Science, and Fujitsu Laboratories, along with several Series A startups.
 
 Broad Research Interests
 ======
 
-My research focus is in the space of Natural Language Processing, Interactive Learning, Large Language Models (LLMs), and Computational Social Science. I'm broadly interested in building an artificial agent that can interact with humans to comprehend Natural Language instructions and use them to do better, especially without being re-trained. I have been working on solving this problem in [Fake News Detection](https://arxiv.org/abs/2309.07384), [Robotics](https://aclanthology.org/N19-1195.pdf), and [Grounded Language Learning](https://arxiv.org/abs/2304.10750). 
+I'm broadly interested in Natural Language Processing and Image Understanding, and improving AI in these areas. I'm interested in building an artificial agent that can interact with humans to comprehend Natural Language and use them to do better, especially without being re-trained, in a continuous online fashion. 
 
-General Motivation: When AI agents make mistakes, they usually have to be re-trained. However, instead, humans should be able to help the agent, and the agent should be able to take advantage of this knowledge to do better in the future, especially in a similar situation. Enabling this would allow agents to continually improve when deployed in the wild, and be more interactive. Particularly with diffcult to train/access LLMs, this can be useful.
+I worked on this in my PhD [Fake News Detection](https://arxiv.org/abs/2309.07384), [Robotics](https://aclanthology.org/N19-1195.pdf), and [Grounded Language Learning](https://arxiv.org/abs/2304.10750). 
 
-I tackled this approach most recently in Computational Social Science, where after building a [state-of-the-art graph model](https://aclanthology.org/2022.acl-long.97/), we showed how minimal human interaction can [significantly improve it](https://arxiv.org/abs/2309.07384). Specifically, humans interact with the AI model, and then LLMs are used to "amplify" the interactions, to get the most impact from each interaction. 
-
-More recently, I've been working on training smaller LLMs to better prompt bigger ones to solve important tasks. This involves using Reinforcement Learning and human interactions to design reward functions to improve the prompt the smaller LLM creates, like RLHF but better! 
-
-In the past at an internship at Microsoft research, I also worked on [Grounded Language Learning](https://arxiv.org/abs/2304.10750), where I built an end-to-end interactive agent. The agent could receive interactions from humans and also interact back with humans by asking clarification questions, and we showed both setups were very useful. Further, the agent could predit it's own response to it's own question, and do well with that as well!
-
-At Amazon, I worked on an innovative graph-based solution to improve how users can find their favorite products via Amazon search! And also a better way to detect entities in Alexa utterances!
+General Motivation: When AI agents make mistakes, they usually have to be re-trained. However, instead, humans should be able to help the agent, and the agent should be able to take advantage of this knowledge to do better in the future, especially in a similar situation. Enabling this would allow agents to continually improve when deployed in the wild, and be more interactive. Particularly with diffcult to train/access LLMs, this can be useful. Having strong LLMs that can understand and reason about the world is the first step towards this.
